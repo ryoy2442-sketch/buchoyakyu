@@ -1,0 +1,2 @@
+# buchoyakyu
+共通
